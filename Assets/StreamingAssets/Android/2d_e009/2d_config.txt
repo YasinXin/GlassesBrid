@@ -1,0 +1,50 @@
+{
+"name": "2d_e009.unity3d",
+  "spines" : [
+    {
+      "name" : "2d_E009_bj01",
+      "position" : "14",
+      "visible" : true,
+      "repeat" : true,
+      "zOrder" : 2,
+      "trigger" : "",
+      "trigger_stop" : false,
+      "trigger_order" : 0
+    },
+  {
+      "name" : "2d_E009_dj01",
+      "position" : "0",
+      "visible" : true,
+      "repeat" : true,
+      "zOrder" : 0,
+      "trigger" : "",
+      "trigger_stop" : false,
+      "trigger_order" : 0,
+      "multimode" : "1,2,3,4,5"
+    },
+    {
+      "name" : "2d_E009_dj02",
+      "position" : "5",
+      "visible" : true,
+      "repeat" : true,
+      "zOrder" : 1,
+      "trigger" : "",
+      "trigger_stop" : false,
+      "trigger_order" : 0,
+      "multimode" : "1,2,3,4,5"
+    }
+  ],
+  "audios" : [
+    {
+      "name" : "",
+      "repeat" : false,
+      "trigger" : "",
+      "trigger_stop" : true
+    }
+  ],
+  "backgroundMusic" : {
+    "name" : "",
+    "trigger_stop" : false
+  },
+  "prompt":""
+}

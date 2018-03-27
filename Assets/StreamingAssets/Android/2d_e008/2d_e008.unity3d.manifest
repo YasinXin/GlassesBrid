@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1119976812
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1df94ee08c0bfb74d4c812ad29c46833
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 42f0e9095935b1b3c47575169459da7a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Examples/2D/Builds/2d_E008/2d_E008_dj01.prefab
+- Assets/Examples/2D/Model/2d_E008/2d_E008_dj02.atlas.txt
+- Assets/Examples/2D/Model/2d_E008/2d_E008_dj01.atlas.txt
+- Assets/Examples/2D/Model/2d_E008/2d_E008_dj02_Atlas.asset
+- Assets/Examples/2D/Builds/2d_E008/2d_E008_dj02.prefab
+- Assets/Examples/2D/Model/2d_E008/2d_E008_dj02_Material.mat
+- Assets/Examples/2D/Model/2d_E008/2d_E008_dj01_Atlas.asset
+- Assets/Examples/2D/Model/2d_E008/2d_E008_dj02.json
+- Assets/Examples/2D/Model/2d_E008/2d_E008_dj01_Material.mat
+- Assets/Examples/2D/Model/2d_E008/2d_E008_dj01.json
+- Assets/Examples/2D/Model/2d_E008/2d_E008_dj02_SkeletonData.asset
+- Assets/Examples/2D/Model/2d_E008/2d_E008_dj01_SkeletonData.asset
+Dependencies: []

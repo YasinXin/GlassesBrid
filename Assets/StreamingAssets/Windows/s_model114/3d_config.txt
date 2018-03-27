@@ -1,0 +1,16 @@
+{
+  "name":"s_model114.unity3d",
+  "NeedInstantiateAssets" : true,
+  "faceTexture": "face_map",
+  "model": [
+  {
+    "name": "S_model114",
+    "visible": true,
+	"Node": "",
+	"ChildNode": "",
+	"follow": true,
+    "zOrder": 183,
+	"trigger": "",
+	"trigger_stop": false
+	}]
+}

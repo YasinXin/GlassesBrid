@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2069578396
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 547538043961039002dc387cb7c56e35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: df7d054e1e42feee3c49bd6a451391f3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Examples/3D/Builds/S_model114/S_model114.prefab
+Dependencies: []
